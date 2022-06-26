@@ -6,4 +6,5 @@ https://dashboard.heroku.com/new?template=https://github.com/happylenx/mystairs2
 
 客户端配置
 protocol : vless
+
 ws_path : /ray
